@@ -4,6 +4,7 @@ This projdect uses silero and webrtcvad to do voice activity detection and trans
 
 
 Usage
+
 `python microphone_and_webRTC_integreation.py`
 
 Credit for the code goes to the original authors:
