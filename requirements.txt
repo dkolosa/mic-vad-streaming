@@ -1,0 +1,6 @@
+webrtcvad
+torchaudio
+torch
+halo
+soundfile
+transformers
